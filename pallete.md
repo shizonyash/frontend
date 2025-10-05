@@ -1,6 +1,6 @@
-#9397F5
-#CF93F5
-#AF94F5
-#93B6F5
-#EF93F5
-#DDD4F5
+#9397F5 - bg
+#CF93F5 - idk
+#AF94F5 - visited links (?)
+#93B6F5 - link (?)
+#EF93F5 - accent 
+#DDD4F5 - text
