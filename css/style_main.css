@@ -1,3 +1,9 @@
+
 body {
-    background-color: purple;
+    background-color: #9397F5;
+    color: #DDD4F5;
+}
+
+.greeting {
+    border: 5px solid #EF93F5;
 }
