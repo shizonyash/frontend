@@ -32,3 +32,19 @@ div.sep{
     border-style: dashed;
     border-width: 1px;
 }
+
+/* ------------------------- tasory's shit ---------------------- */
+
+.greeting {
+    border: 5px solid #EF93F5;
+}
+
+.greeting, .greeting legend {
+    border: 5px solid #EF93F5;
+    background-color: #313244;
+    border-radius: 10px;
+}
+
+.greeting legend {
+    padding: 5px;
+}
