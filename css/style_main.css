@@ -17,6 +17,18 @@ body {
     font-weight: 450;
 }
 
+main{
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
 .greeting {
     border: 5px solid #EF93F5;
+}
+
+div.sep{
+    height: 0px;
+    border-style: dashed;
+    border-width: 1px;
 }
