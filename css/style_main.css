@@ -36,12 +36,20 @@ div.sep{
 }
 
 
-span.present{
-    vertical-align: middle;
-    margin-left: 10px;
+div.member{
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
 }
 
-div.members > img{
+
+span.present{
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+}
+
+div.members > div.member > img{
     border-radius: 10px;
     border-color: #ea95f5;
     border-width: 3px;
