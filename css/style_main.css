@@ -11,7 +11,7 @@
 
 body {
     background-color: #9397F5;
-    background-image: "/img/bg-patt.png";
+    background-image: url('img/bg-patt.png');
     background-repeat: repeat;
     background-size: 400px;
     image-rendering: pixelated;
