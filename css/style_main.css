@@ -27,6 +27,9 @@ main{
     width: 60%;
     display: block;
     margin: auto;
+    image-rendering: auto;
+    image-rendering: auto;
+    image-rendering: auto;
 }
 
 .greeting {
