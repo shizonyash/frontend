@@ -11,6 +11,12 @@
 
 body {
     background-color: #9397F5;
+    background-image: url('https://shizonyash.github.io/frontend/img/bg-patt.png');
+    background-repeat: repeat;
+    background-size: 400px;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
     color: #DDD4F5;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
