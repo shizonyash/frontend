@@ -31,6 +31,29 @@ div.sep{
     height: 0px;
     border-style: dashed;
     border-width: 1px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+
+div.member{
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+}
+
+
+span.present {
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+
+div.members > div.member > img{
+    border-radius: 10px;
+    border-color: #ea95f5;
+    border-width: 3px;
+    border-style: solid;
 }
 
 /* ------------------------- tasory's shit ---------------------- */
